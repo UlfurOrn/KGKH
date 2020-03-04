@@ -10,3 +10,7 @@ def test_return_buzz():
 
 def test_return_fizz():
     assert fizzbuzz(3) == "Fizz"
+
+
+def test_return_num():
+    assert fizzbuzz(2) == 2
