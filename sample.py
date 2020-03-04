@@ -10,4 +10,4 @@ def fizzbuzz(num):
     elif num % 3 == 0:
         return "Fizz"
 
-    return
+    return num
