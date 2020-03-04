@@ -6,3 +6,7 @@ def test_return_fizzbuzz():
 
 def test_return_buzz():
     assert fizzbuzz(5) == "Buzz"
+
+
+def test_return_fizz():
+    assert fizzbuzz(3) == "Fizz"
